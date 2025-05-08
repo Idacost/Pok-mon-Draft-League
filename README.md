@@ -36,7 +36,7 @@ A simple Pokémon Draft League system designed to simulate a competitive draft l
 
 1. Clone the repository or download the project files.
 ```bash
-git clone https://github.com/Idacost/Pok-mon-Draft-League
+git clone https://github.com/Idacost/Pokemon-Draft-League.git
 ```
 2. Navigate to the project directory.
 
